@@ -5,7 +5,7 @@
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### graphic I
 ```markdown
 library("highcharter")
 hchart(dd, "scatter", hcaes(x = Review.Date, y = Rating, group = Company.Location))
