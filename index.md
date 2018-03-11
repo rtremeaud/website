@@ -3,7 +3,7 @@
 
 
 ### graphic I
-![graphic I](Capture d’écran 2018-03-12 à 00.24.34.png)
+![graphic I](https://rtremeaud.github.io/website/Capture d’écran 2018-03-12 à 00.24.34.png)
 ```markdown
 library("highcharter")
 hchart(dd, "scatter", hcaes(x = Review.Date, y = Rating, group = Company.Location))
