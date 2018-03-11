@@ -11,7 +11,7 @@ library("highcharter")
 hchart(dd, "scatter", hcaes(x = Review.Date, y = Rating, group = Company.Location))
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://github.com/rtremeaud/website/graphics1.html).
 
 ### Jekyll Themes
 
