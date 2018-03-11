@@ -10,8 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 library("highcharter")
 hchart(dd, "scatter", hcaes(x = Review.Date, y = Rating, group = Company.Location))
 ```
-
-For more details see [GitHub Flavored Markdown](https://github.com/rtremeaud/website/graphics1.html).
+[mon graphic](https://rtremeaud.github.io/website/graphics1.html).
 
 ### Jekyll Themes
 
