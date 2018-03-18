@@ -17,7 +17,7 @@ hchart(dd, "scatter",
 
 ### graphic II
 
-[![ IIII ](https://rtremeaud.github.io/website/Capture d’écran 2018-03-18 à 17.23.33.png)](https://rtremeaud.github.io/website/graphics2.html)
+[![ IIII ](https://rtremeaud.github.io/website/Capture d’écran 2018-03-18 à 17.23.33.png)](https://rtremeaud.github.io/website/graphic2.html)
 
 ```markdown
 library("highcharter")
