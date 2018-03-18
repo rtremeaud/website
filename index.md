@@ -29,7 +29,9 @@ highchart() %>% hc_title(text = "Evolution des coûts MNT") %>%
   hc_add_series(name = "PIB.Valeur.nominale..en.mio.de.francs", data = dd$PIB.Valeur.nominale..en.mio.de.francs)
 }
 ```
-
+### graphic III
+Différentes variations des coûts de santé en lien avec le PIB et la population
+[![ IIII ](https://rtremeaud.github.io/website/visualize.png)]
 ### Jekyll Themes
 
 
